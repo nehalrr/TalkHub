@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912294470410",
+    "project_id": "talkhub-backend",
+    "storage_bucket": "talkhub-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912294470410:android:858bbc543c55ac3782d0f3",
+        "android_client_info": {
+          "package_name": "com.example.talkhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW4iNKOnXhhiQgvaUYJvJi3-CY9vwib4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
